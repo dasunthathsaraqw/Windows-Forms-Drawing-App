@@ -12,3 +12,4 @@ D:\Windows Forms Drawing App\DrawingApp\obj\Debug\net8.0-windows\refint\DrawingA
 D:\Windows Forms Drawing App\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.pdb
 D:\Windows Forms Drawing App\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.genruntimeconfig.cache
 D:\Windows Forms Drawing App\DrawingApp\obj\Debug\net8.0-windows\ref\DrawingApp.dll
+D:\Windows Forms Drawing App\DrawingApp\obj\Debug\net8.0-windows\DrawingApp.sourcelink.json
